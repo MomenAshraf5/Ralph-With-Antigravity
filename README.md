@@ -136,7 +136,7 @@ Execute the next incomplete story from the PRD.
 ## 📁 File Structure After Setup
 
 ```
-your-erp-project/
+your-project/
 ├── CODEBASE_ANALYSIS.md           # Project patterns (Step 1)
 ├── prd.json                       # Current feature PRD (Step 2)
 ├── progress.txt                   # Learning history (Step 3)
@@ -376,7 +376,7 @@ After using this workflow, you'll have:
 1. Copy the three prompt files to your project
 2. Run Step 1 (Analyze Codebase) once
 3. For each feature: Run Step 2 (Generate PRD) → Review → Run Step 3 (Execute)
-4. Watch your ERP system grow autonomously!
+4. Watch your system grow autonomously!
 
 **Questions?**
 
